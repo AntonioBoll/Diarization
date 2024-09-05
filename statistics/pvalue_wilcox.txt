@@ -1,0 +1,27 @@
+MODEL 1 X MODEL 2: P-VALUE
+
+###################################################
+- Sentence
+
+Accuracy:
+Assembly x Oracle: 0.013995907742832873
+Ours x Assembly: 0.013995907742832873
+Ours x Oracle: 0.00390625
+
+F1-score:
+Assembly x Oracle: 0.01953125
+Ours x Assembly: 0.03148952560722761
+Ours x Oracle: 0.00390625
+
+###################################################
+- Word
+
+Accuracy:
+Assembly x Oracle: 0.01953125
+Ours x Assembly: 0.013995907742832873
+Ours x Oracle: 0.0078125
+
+F1-score:
+Assembly x Oracle: 0.01171875
+Ours x Assembly: 0.013995907742832873
+Ours x Oracle: 0.0078125
