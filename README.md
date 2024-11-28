@@ -13,8 +13,12 @@ Contents
 
 This section includes 8 dataset folders and general metrics for evaluating the Assembly model:
 
-- Dataset folders:
+Dataset folders:
+
+
 Each folder contains:
+
+
 * Baseline transcriptions (used for comparisons).
 * Model-generated responses.
 * Evaluation metrics: Accuracy, Precision, Recall, and F1 Score for both sentence-level and word-level transcriptions.
@@ -28,7 +32,8 @@ Each folder contains:
 
 This section includes 8 videos sourced from the Ordem do Dia sessions of Brazil's Chamber of Deputies.
 
-- Each dataset folder includes:
+Each dataset folder includes:
+
 * PDF documents.
 * Audio recordings.
 * Video files.
@@ -42,7 +47,9 @@ This section includes 8 videos sourced from the Ordem do Dia sessions of Brazil'
 
 Similar to the Assembly section, this includes 8 dataset folders and general metrics, with an additional focus on diarization using the Oracle model:
 
-- Dataset folders:
+Dataset folders:
+
+
 Each folder contains:
 * Baseline transcriptions (used for comparisons).
 * Model-generated responses.
@@ -58,7 +65,9 @@ Each folder contains:
 
 This section includes 8 dataset folders and general metrics for our proposed method:
 
-- Dataset folders:
+Dataset folders:
+
+
 Each folder contains:
 
 * Baseline transcriptions (used for comparisons).
@@ -68,12 +77,16 @@ Each folder contains:
 * General metrics for sentence-level evaluation: Contains the calculations for the overall metrics at the sentence level for our method.
 
 5. Statistics
+
+   
 The Statistics folder includes:
 
 * Confidence interval calculation code and results.
 * Wilcoxon test calculation code and results.
 
 6. Notebook for Tests
+
+   
 A comprehensive notebook is provided to:
 
 * Run the diarization process.
